@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!bin/bash
 rm -r tmp/my_first_directory
+=======
+#!/bin/bash
+rm -r /tmp/my_first_directory
+>>>>>>> 69b34eba9cbb26fa3e12c0353fb3ccab23b64cdf
